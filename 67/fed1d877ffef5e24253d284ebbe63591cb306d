@@ -1,0 +1,396 @@
+apps/studio/components/interfaces/LogDrains/AnimatedLogos.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+apps/www/components/SurveyResults/SurveyChart.tsx
+  s_dcf9da92279420::t_24474dae14606b 6
+apps/www/components/UsersGrowthChart.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/www/components/Products/VectorAI/IntegrationsImage.tsx
+  s_dcf9da92279420::t_24474dae14606b 1,3-6
+packages/ui/src/components/AnimatedCounter/AnimatedCounter.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/studio/components/interfaces/Storage/FilesBuckets/BucketVersioningFields/BucketVersioningFields.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/studio/components/ui/FileExplorerAndEditor/index.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+apps/www/app/(products)/auth/_components/RLSSectionClient.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/www/components/AIDemo/SqlSnippet.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/www/app/(products)/realtime/_components/FeaturesSection.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/www/components/Sections/HighlightCards.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/www/components/OpenSource/Repos.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/www/components/CustomerStories/CustomersFilters.tsx
+  s_dcf9da92279420::t_24474dae14606b 7
+packages/ui-patterns/src/FilterBar/FilterBar.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/www/components/LaunchWeek/7/LaunchSection/LaunchWeekLogoHeader.tsx
+  s_dcf9da92279420::t_24474dae14606b 3-4
+apps/studio/components/interfaces/Organization/BillingSettings/Subscription/PlanCards.utils.ts
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/studio/components/interfaces/Sidebar.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/studio/components/interfaces/Support/IncidentAdmonition.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/www/app/(home)/_components/CommunitySectionV2.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/www/components/LaunchWeek/7/Releases/Day5.tsx
+  s_dcf9da92279420::t_24474dae14606b 1-2,4-8
+apps/www/components/Pricing/CostControlAnimation.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/www/components/MagnifiedProducts.tsx
+  s_dcf9da92279420::t_111ed6aa014584 10
+  s_dcf9da92279420::t_24474dae14606b 1-2,5,11-12,21-23
+apps/www/app/(products)/database/_components/ApiSectionClient.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/www/components/Nav/MobileMenu.tsx
+  s_dcf9da92279420::t_24474dae14606b 6
+apps/studio/components/layouts/ProjectNeedsSecuring/ProjectNeedsSecuring.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/www/app/(products)/edge-functions/_components/CTASection.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/www/components/ImageGrid.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/studio/components/layouts/ExplorerLayout/ExplorerLayout.constants.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/www/components/Products/Functions/LocalDXImage.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/studio/components/interfaces/DiskManagement/ui/NoticeBar.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/studio/components/ui/AIAssistantPanel/AssistantChat.tsx
+  s_dcf9da92279420::t_24474dae14606b 7
+apps/studio/components/ui/BannerStack/Banners/BannerExplorer.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/studio/components/interfaces/Integrations/Integration/MarkdownContent.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/www/components/Panel/Panel.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/studio/components/interfaces/Storage/FilesBuckets/BucketVersioningFields/LifecyclePolicySection.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/studio/components/layouts/Navigation/FloatingMobileToolbar/FloatingMobileToolbar.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+apps/www/app/(products)/database/_components/VisualDemo.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/www/components/LaunchWeek/15/LW15Hackathon.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+apps/www/app/state-of-startups/StateOfStartups2026Content.tsx
+  s_dcf9da92279420::t_111ed6aa014584 6
+apps/studio/components/interfaces/DiskManagement/ui/SpendCapDisabledSection.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/www/components/Blog/BlogFilters.tsx
+  s_dcf9da92279420::t_24474dae14606b 8
+apps/www/components/LaunchWeek/15/LW15BuildStage.tsx
+  s_dcf9da92279420::t_24474dae14606b 3-6
+apps/www/components/Wrapped/Pages/Home.tsx
+  s_dcf9da92279420::t_24474dae14606b 3,7
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/www/components/Sections/UseCasesSection.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/studio/components/interfaces/DiskManagement/ui/ComputeSizeRecommendationSection.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/studio/components/interfaces/Support/DiscordCTACard.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/studio/components/interfaces/BranchManagement/WorkflowLogsCard.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/studio/components/layouts/Navigation/LayoutHeader/LayoutHeader.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/www/app/(home)/_components/DashboardFeaturesSection.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/www/app/(home)/_components/OpenSourceSection.tsx
+  s_dcf9da92279420::t_111ed6aa014584 5
+apps/www/app/(products)/database/_components/FeaturesSection.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/ui-library/components/command.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/www/components/LaunchWeek/7/LaunchWeekPrizeCard.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/www/components/OpenSource/OSSHero.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/www/components/TabsWithHighlights.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/www/components/Wrapped/AnimatedGridBackground.tsx
+  s_dcf9da92279420::t_24474dae14606b 4-5
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/www/components/Wrapped/Pages/Intro.tsx
+  s_dcf9da92279420::t_24474dae14606b 4-5,8
+  s_dcf9da92279420::t_f5a5d840c88c3a 9
+apps/studio/components/interfaces/Organization/BillingSettings/Subscription/EnterpriseCard.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/studio/components/interfaces/SignIn/SignUpForm.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/studio/components/interfaces/DiskManagement/DiskManagementRestartRequiredSection.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/studio/components/interfaces/DiskManagement/ui/DiskTypeRecommendationSection.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/www/components/AIDemo/Panel.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/studio/components/layouts/Tabs/SortableTab.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/www/components/Hero/HeroFrameworks.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+  s_dcf9da92279420::t_24474dae14606b 1-2,8
+apps/studio/components/interfaces/Storage/StorageExplorer/FileExplorerColumn.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/studio/components/interfaces/Realtime/Inspector/AnimatedCursors.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/studio/components/layouts/Navigation/LayoutHeader/FeedbackDropdown/FeedbackWidget.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/www/app/(home)/_components/FrameworksSectionClient.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/studio/components/interfaces/Support/ProjectAndPlanInfo.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/studio/components/layouts/Tabs/Tabs.tsx
+  s_dcf9da92279420::t_24474dae14606b 12
+apps/www/app/(products)/auth/_components/FeaturesSection.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/studio/components/interfaces/DiskManagement/ui/DiskManagementReadReplicas.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/studio/components/interfaces/Support/AIAssistantOption.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/studio/components/interfaces/DiskManagement/ui/FormMessage.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/studio/components/layouts/Tabs/RecentItems.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/www/components/Events/EventsFilters.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/www/components/Blog/BlogViewToggle.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/studio/components/interfaces/Auth/EmailTemplates/SpamValidation.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/www/app/blog/BlogHero.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/www/components/Products/Functions/ParityImage.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/www/components/Sections/TimedTabsSection.tsx
+  s_dcf9da92279420::t_24474dae14606b 6
+apps/www/app/state-of-startups/register/RegisterContent.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/www/pages/customers.tsx
+  s_dcf9da92279420::t_111ed6aa014584 7
+packages/ui/package.json
+  s_dcf9da92279420::t_111ed6aa014584 28
+packages/ui/src/components/shadcn/ui/form.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/studio/components/interfaces/Organization/HeaderBanner.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/studio/components/ui/AIAssistantPanel/AssistantChatForm.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+  s_dcf9da92279420::t_ed0f8bae0f50ca 59
+apps/www/components/Sections/TimedAccordionPanels.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/studio/components/interfaces/App/GitHubConfigDriftBanner.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/www/components/LaunchWeek/14/Releases/BuildStage.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/www/components/LaunchWeek/14/Releases/components/BuildCard.tsx
+  s_dcf9da92279420::t_24474dae14606b 1,4,7
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/www/app/state-of-startups/components/SurveyChart.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/www/components/LaunchWeek/13/Releases/BuildStage.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/studio/components/layouts/InterstitialLayout.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+packages/ui-patterns/package.json
+  s_dcf9da92279420::t_111ed6aa014584 779
+apps/www/components/LaunchWeek/X/Releases/BuildStage.tsx
+  s_dcf9da92279420::t_24474dae14606b 4,7
+  s_dcf9da92279420::t_111ed6aa014584 3
+  s_dcf9da92279420::t_04c261c0376136 8
+apps/studio/components/interfaces/Integrations/CronJobs/CreateCronJobSheet/CronJobScheduleSection.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+packages/ui-patterns/src/SqlToRest/syntax-highlighter/transform-renderer.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/www/app/partners/catalog/[slug]/PartnerCatalogDetail.tsx
+  s_dcf9da92279420::t_24474dae14606b 10
+apps/www/components/Products/VectorAI/CustomersVisual.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/studio/components/ui/FeatureBanner.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+apps/studio/components/layouts/Tabs/TabPreview.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/www/app/(home)/_components/CustomerStoriesSection.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/www/components/Sections/CustomerQuotesSection.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/www/components/LaunchWeek/13/Releases/components/BuildCard.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+  s_dcf9da92279420::t_24474dae14606b 1,4,7
+apps/studio/components/interfaces/DiskManagement/ui/DiskCountdownRadial.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/www/components/Wrapped/Pages/SupabaseSelect.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+  s_dcf9da92279420::t_24474dae14606b 6
+apps/www/components/Products/VectorAI/OpenAIImage.tsx
+  s_dcf9da92279420::t_24474dae14606b 1-2
+apps/www/components/Products/Functions/CI.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/www/components/LaunchWeek/15/LW15Meetups.tsx
+  s_dcf9da92279420::t_24474dae14606b 1-4,7-9
+apps/www/components/OpenSource/RepoCard.tsx
+  s_dcf9da92279420::t_24474dae14606b 3-5
+apps/www/app/state-of-startups/components/YearToggle.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/studio/components/interfaces/JwtSecrets/jwt-secret-keys-table/index.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/www/components/LaunchWeek/7/Releases/index.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/studio/components/interfaces/Database/Replication/DestinationPanel/DestinationForm/index.test.tsx
+  s_dcf9da92279420::t_111ed6aa014584 141
+apps/docs/components/Navigation/NavigationMenu/GlobalMobileMenu.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/studio/components/interfaces/Organization/BillingSettings/Subscription/PlanCard.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+apps/studio/components/interfaces/DiskManagement/ui/BillingChangeBadge.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/www/components/LaunchWeek/11/Releases/BuildStage.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/www/components/Sections/FeaturesSection.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/www/components/Sections/TimedAccordionSection.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/www/components/LaunchWeek/12/Releases/components/BuildCard.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+  s_dcf9da92279420::t_24474dae14606b 1,4,7
+apps/www/app/(products)/auth/_components/ApiSectionClient.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/www/pages/assistant.tsx
+  s_dcf9da92279420::t_111ed6aa014584 5
+apps/www/package.json
+  s_dcf9da92279420::t_111ed6aa014584 74
+apps/studio/components/interfaces/DiskManagement/ui/DiskSpaceBar.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/studio/components/interfaces/Integrations/Integration/IntegrationOverviewTab.test.tsx
+  s_dcf9da92279420::t_111ed6aa014584 21
+apps/studio/components/interfaces/Storage/BucketFilePickerDialog/BucketFilePickerColumn.tsx
+  s_dcf9da92279420::t_24474dae14606b 7
+apps/www/components/LaunchWeek/7/LaunchWeekPrizeSection.tsx
+  s_dcf9da92279420::t_24474dae14606b 1,3
+apps/studio/components/interfaces/AuditLogs/AuditLogsSelectionHeader.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+apps/studio/components/grid/components/header/Header.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/studio/components/layouts/ProjectLayout/index.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+apps/studio/components/ui/BannerStack/BannerStack.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/studio/components/layouts/ProjectLayout/index.test.tsx
+  s_dcf9da92279420::t_111ed6aa014584 91
+apps/www/app/(products)/database/_components/SqlEditorSection.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/www/app/state-of-startups/components/StateOfStartupsAuroraHeader.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/www/app/(products)/storage/_components/PermissionsSectionClient.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/www/components/LaunchWeek/X/Releases/components/AdventCard.tsx
+  s_dcf9da92279420::t_24474dae14606b 1,4,7
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/www/pages/state-of-startups-2025.tsx
+  s_dcf9da92279420::t_111ed6aa014584 8
+apps/www/pages/features.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+apps/www/app/(products)/storage/_components/ApiSectionClient.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/studio/components/interfaces/APIKeys/APIKeyRow.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+apps/www/components/LaunchWeek/11/Releases/components/AdventCard.tsx
+  s_dcf9da92279420::t_24474dae14606b 1,4,7
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/studio/components/ui/FormSectionCollapse.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/studio/components/grid/components/footer/operations/SaveQueueActionBar.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/www/app/(products)/edge-functions/_components/IntegratesSectionClient.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/www/components/LaunchWeek/7/LW7BgGraphic.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+  s_dcf9da92279420::t_24474dae14606b 4
+  s_dcf9da92279420::t_a3696e109db067 3
+apps/www/components/LaunchWeek/7/BlogLinks.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/studio/components/interfaces/Organization/BillingSettings/Subscription/PlanUpdatePanelShell.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/www/app/(products)/realtime/_components/ApiSectionClient.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/www/components/AIDemo/DotGrid.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/studio/components/interfaces/Organization/BillingSettings/Subscription/PlanCards.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/www/app/(products)/database/_components/TableEditorSection.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/www/components/LaunchWeek/8/LaunchWeekPrizeCard.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+packages/ui/src/layout/ai-icon-animation/ai-icon-animation.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+packages/ui-patterns/src/SqlToRest/syntax-highlighter/framer-features.ts
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/studio/package.json
+  s_dcf9da92279420::t_111ed6aa014584 133
+apps/www/components/Products/Functions/NpmEcosystem.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/www/components/EnterpriseFormQuotes.tsx
+  s_dcf9da92279420::t_111ed6aa014584 1
+apps/studio/components/layouts/ExplorerLayout/ExplorerNavHome.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+apps/studio/components/interfaces/DiskManagement/DiskManagementForm.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/studio/components/interfaces/Settings/Integrations/GithubIntegration/GitHubIntegrationConnectionForm.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/www/components/LaunchWeek/12/Releases/BuildStage.tsx
+  s_dcf9da92279420::t_111ed6aa014584 3
+apps/studio/components/interfaces/Database/Replication/DestinationPanel/DestinationForm/index.tsx
+  s_dcf9da92279420::t_24474dae14606b 5
+apps/studio/components/interfaces/DiskManagement/fields/ThroughputField.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/studio/components/layouts/ExplorerLayout/ExplorerLayout.tsx
+  s_dcf9da92279420::t_24474dae14606b 2
+apps/ui-library/package.json
+  s_dcf9da92279420::t_111ed6aa014584 44
+apps/www/app/(products)/compute/_components/ComputeVisual.tsx
+  s_dcf9da92279420::t_24474dae14606b 7
+apps/studio/components/ui/AIEditor/index.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+apps/www/components/Products/VectorAI/PGvectorImg.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/studio/components/interfaces/Auth/SessionsAuthSettingsForm/SessionsAuthSettingsForm.test.tsx
+  s_dcf9da92279420::t_ed0f8bae0f50ca 16
+apps/www/components/Products/Functions/RealtimeLogs.tsx
+  s_dcf9da92279420::t_111ed6aa014584 2
+apps/studio/components/interfaces/JwtSecrets/jwt-secret-keys-table/signing-key-row.tsx
+  s_dcf9da92279420::t_24474dae14606b 14
+apps/www/components/Products/Functions/QueryLogs.tsx
+  s_dcf9da92279420::t_24474dae14606b 3
+apps/www/app/(products)/compute/_components/DeploySection.tsx
+  s_dcf9da92279420::t_111ed6aa014584 4
+apps/www/components/Nav/SolutionsDropdown.tsx
+  s_dcf9da92279420::t_24474dae14606b 4
+apps/docs/components/DocsCoverLogo.tsx
+  s_dcf9da92279420::t_86988f9cf38135 3
+apps/docs/package.json
+  s_dcf9da92279420::t_abcfeccd0f22c9 105
+apps/learn/components/command.tsx
+  s_dcf9da92279420::t_cbebda043f2a57 3
+apps/learn/package.json
+  s_dcf9da92279420::t_981d2bffecd0ba 24
+pnpm-lock.yaml
+  s_dcf9da92279420::t_af06f833282e1f 494-496,835-837,1254-1256,1600-1602,1937-1939,2745-2747,2908-2910,14884-14897,33523-33531
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "67fed1d877ffef5e24253d284ebbe63591cb306d",
+  "prompts": {},
+  "sessions": {
+    "s_dcf9da92279420": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12718-099d-7f31-8702-2dca27cd64d9",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "brian-an <brian.an0906@hotmail.com>"
+    }
+  }
+}
